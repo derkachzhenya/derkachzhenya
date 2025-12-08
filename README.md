@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Yevhen 👋</h1>
 
-<!--
-**derkachzhenya/derkachzhenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 <strong>Full-stack Laravel & Vue.js Developer</strong>  
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building fast, scalable and SEO-optimized web applications |  
+  Creator of <a href="https://www.fijieco.com" target="_blank">FijiEco</a>  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me
+
+- 💻 I specialize in **Laravel**, **Vue.js**, **Inertia**, and **TailwindCSS**  
+- 🌍 Founder of **FijiEco.com**, a fast-growing eco-travel platform  
+- ⚡ Passionate about **performance optimization**, **SEO**, and **clean architecture**  
+- ☁️ Experienced with **DigitalOcean**, **Nginx**, **CI/CD**, **Cloudflare**  
+- 📈 Constantly learning, improving, and building real-world products  
+- 🎯 Goal: deliver high-quality user experiences and scalable solutions  
+
+---
+
+## 🛠️ Tech Stack
+
+### **Backend**
+- PHP • Laravel • REST API • Horizon • Queue Workers  
+- MySQL • SQLite • Redis  
+
+### **Frontend**
+- Vue.js • Inertia.js • Vite  
+- TailwindCSS • Alpine.js  
+
+### **DevOps / Tools**
+- Docker • Nginx • GitHub Actions • PM2  
+- Cloudflare (CDN, caching, security)  
+- DigitalOcean Droplets & Networking  
+
+### **Other**
+- SEO optimization • PageSpeed • Core Web Vitals  
+- UI/UX improvements • Fast content delivery  
+
+---
+
+## 🌍 Featured Project
+
+### 🔗 **FijiEco — Sustainable Travel in Fiji**  
+➡ https://www.fijieco.com  
+
+A complete eco-travel platform featuring:  
+- 🔥 High-performance Laravel + Vue stack  
+- 🌱 100+ hand-crafted SEO-optimized articles  
+- 📸 Dynamic image system with responsive formats  
+- 🌍 Real user analytics & caching optimization  
+- ⚡ Cloudflare performance tuning  
+- 📱 Mobile-optimized design  
+
+Growing daily and scaling towards 50k+ monthly visits.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=derkachzhenya&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derkachzhenya&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **derkachyevhen@gmail.com**  
+- 🔗 LinkedIn: https://www.linkedin.com/in/yevhen-derkach-9b805b182  
+- 🌐 Personal site: https://www.fijieco.com  
+
+---
+
+<p align="center">
+  ⭐ Feel free to explore my repositories or reach out for collaboration!
+</p>
