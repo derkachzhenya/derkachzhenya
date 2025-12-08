@@ -60,15 +60,6 @@ Growing daily and scaling towards 50k+ monthly visits.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=derkachzhenya&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derkachzhenya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: **derkachyevhen@gmail.com**  
