@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yevhen 👋</h1>
 
 <p align="center">
-  🚀 <strong>Full-stack Laravel & Vue.js Developer</strong>  
+   <strong>Full-stack Laravel & Vue.js Developer</strong>  
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-## 🔥 About Me
+##  About Me
 
 - 💻 I specialize in **Laravel**, **Vue.js**, **Inertia**, and **TailwindCSS**  
 - 🌍 Founder of **FijiEco.com**, a fast-growing eco-travel platform  
