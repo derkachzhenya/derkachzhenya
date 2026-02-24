@@ -63,7 +63,7 @@ Growing daily and scaling towards 50k+ monthly visits.
 ## 📫 Contact Me
 
 - 📧 Email: **derkachyevhen@gmail.com**  
-- 🔗 LinkedIn: https://www.linkedin.com/in/yevhen-derkach-9b805b182  
+- 🔗 LinkedIn: https://www.linkedin.com/in/yevhen-derkach
 - 🌐 Personal site: https://www.fijieco.com  
 
 ---
