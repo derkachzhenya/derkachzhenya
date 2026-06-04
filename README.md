@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yevhen 👋</h1>
+<h1 align="center">Hi, I'm Yevhen</h1>
 
 <p align="center">
    <strong>Full-stack Laravel & Vue.js Developer</strong>  
@@ -13,16 +13,16 @@
 
 ##  About Me
 
-- 💻 I specialize in **Laravel**, **Vue.js**, **Inertia**, and **TailwindCSS**  
-- 🌍 Founder of **FijiEco.com**, a fast-growing eco-travel platform  
-- ⚡ Passionate about **performance optimization**, **SEO**, and **clean architecture**  
-- ☁️ Experienced with **DigitalOcean**, **Nginx**, **CI/CD**, **Cloudflare**  
-- 📈 Constantly learning, improving, and building real-world products  
-- 🎯 Goal: deliver high-quality user experiences and scalable solutions  
+- I specialize in **Laravel**, **Vue.js**, **Inertia**, and **TailwindCSS**  
+- Founder of **FijiEco.com**, a fast-growing eco-travel platform  
+- Passionate about **performance optimization**, **SEO**, and **clean architecture**  
+- Experienced with **DigitalOcean**, **Nginx**, **CI/CD**, **Cloudflare**  
+- Constantly learning, improving, and building real-world products  
+- Goal: deliver high-quality user experiences and scalable solutions  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Backend**
 - PHP • Laravel • REST API • Horizon • Queue Workers  
@@ -43,31 +43,31 @@
 
 ---
 
-## 🌍 Featured Project
+## Featured Project
 
-### 🔗 **FijiEco — Sustainable Travel in Fiji**  
+###  **FijiEco — Sustainable Travel in Fiji**  
 ➡ https://www.fijieco.com  
 
 A complete eco-travel platform featuring:  
-- 🔥 High-performance Laravel + Vue stack  
-- 🌱 100+ hand-crafted SEO-optimized articles  
-- 📸 Dynamic image system with responsive formats  
-- 🌍 Real user analytics & caching optimization  
-- ⚡ Cloudflare performance tuning  
-- 📱 Mobile-optimized design  
+- High-performance Laravel + Vue stack  
+- 100+ hand-crafted SEO-optimized articles  
+- Dynamic image system with responsive formats  
+- Real user analytics & caching optimization  
+- Cloudflare performance tuning  
+- Mobile-optimized design  
 
 Growing daily and scaling towards 50k+ monthly visits.
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
-- 📧 Email: **derkachyevhen@gmail.com**  
-- 🔗 LinkedIn: https://www.linkedin.com/in/yevhen-derkach
-- 🌐 Personal site: https://www.fijieco.com  
+- Email: **derkachyevhen@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/yevhen-derkach
+- Personal site: https://www.fijieco.com  
 
 ---
 
 <p align="center">
-  ⭐ Feel free to explore my repositories or reach out for collaboration!
+  Feel free to explore my repositories or reach out for collaboration!
 </p>
