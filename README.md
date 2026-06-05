@@ -13,8 +13,8 @@
 
 ##  About Me
 
-- I specialize in **Laravel**, **Vue.js**, **Inertia**, and **TailwindCSS**  
-- Founder of **FijiEco.com**, a fast-growing eco-travel platform  
+- I specialize in **Laravel**, **Vue.js**, **Inertia**, and **Tailwind CSS**  
+- Building and maintaining **FijiEco.com**, a Laravel + Vue eco-travel platform. 
 - Passionate about **performance optimization**, **SEO**, and **clean architecture**  
 - Experienced with **DigitalOcean**, **Nginx**, **CI/CD**, **Cloudflare**  
 - Constantly learning, improving, and building real-world products  
